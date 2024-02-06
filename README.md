@@ -1,9 +1,9 @@
 # Subdiaphragmatic-Mask-and-Classification-Training-Dataset
 The Detection-After-Segmentation Model for Subdiaphragmatic Lesion 
 
-Note: all these files are available at:
-Due to copyrights and storage of github issue, please download the original ds before you use them.
-Here are their filenames of the images. Use appropriate tool to set up the dataset
+Note: all these files are available at: \n
+Due to copyrights and storage of github issue, please download the original ds before you use them. \n
+Here are their filenames of the images. Use appropriate tool to set up the dataset \n
 
 
 Stage 1, SEGMENTATION TRAINING
