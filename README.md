@@ -7,15 +7,15 @@ Here are their filenames of the images. Use appropriate tool to set up the datas
 
 
 
-Stage 1, SEGMENTATION TRAINING  
-images: original image  
-masks: upper abdominal masks  
-masks_rt: right subphrenic masks  
-masks_lt: left subphrenic masks  
+STAGE 1, SEGMENTATION TRAINING  
+  images: original images  
+  masks.zip: upper abdominal masks  
+  masks_rt.zip: right subphrenic masks  
+  masks_lt.zip: left subphrenic masks  
 
 STAGE 2, DECTECTION TRAINING  
-subphrenic_ds: whole classification  
-LUQ_13_ds: 13 classification  
-LUQ_severity: severity classification  
-RUQ_ds: right upper quadrant lesions  
-BIL_ds: bilateal below-the-diaphragm lesions  
+  SUBPHRENIC_dataset: whole classification including BIL, RUQ, LUQ  
+  LUQ_13_subset: 13 classification  
+  LUQ_severity_subset: severity classification after combination  
+  RUQ_subset: right upper quadrant lesions  
+  BIL_subset: bilateal below-the-diaphragm lesions  
