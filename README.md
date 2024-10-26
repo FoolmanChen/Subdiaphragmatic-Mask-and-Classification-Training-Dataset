@@ -1,10 +1,10 @@
 # Subdiaphragmatic-Mask-and-Classification-Training-Dataset
 
-** The paper is "The Two-Stage Detection-After-Segmentation Model Improves the Accuracy of Identifying Subdiaphragmatic Lesions" in Scientific Report
-https://www.nature.com/articles/s41598-024-76450-6
-https://doi.org/10.1038/s41598-024-76450-6
-please cite: 
-Chen, CH., Hsu, S.H., Hsieh, KY. et al. The two-stage detection-after-segmentation model improves the accuracy of identifying subdiaphragmatic lesions. Sci Rep 14, 25414 (2024). https://doi.org/10.1038/s41598-024-76450-6
+** The paper is "The Two-Stage Detection-After-Segmentation Model Improves the Accuracy of Identifying Subdiaphragmatic Lesions" in Scientific Report  
+https://www.nature.com/articles/s41598-024-76450-6  
+https://doi.org/10.1038/s41598-024-76450-6  
+please cite:  
+Chen, CH., Hsu, S.H., Hsieh, KY. et al. The two-stage detection-after-segmentation model improves the accuracy of identifying subdiaphragmatic lesions. Sci Rep 14, 25414 (2024). https://doi.org/10.1038/s41598-024-76450-6  
 
 
 The Detection-After-Segmentation Model for Subdiaphragmatic Lesion 
